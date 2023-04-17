@@ -3,3 +3,5 @@ dvc[gdrive]
 pandas
 numpy
 scikit-learn
+pytest
+tox
