@@ -1,7 +1,7 @@
 base:
   project: WineQuality-Project
   random_state: 42
-  target_column: Target
+  target_column: quality
 
 data_source: 
   s3_source: data_given\winequality.csv
